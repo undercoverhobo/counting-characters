@@ -29,4 +29,3 @@ function countingCharacters3(str, search){
     }
     return count;
 }
-// heyyyy
